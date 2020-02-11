@@ -1,0 +1,24 @@
+@import url("main.css");
+
+
+/*
+.card {
+	float: left;
+	position: relative;
+	width: 28%;
+	height:150px;
+	margin: 8px;
+	border: 2px solid #000;
+	border-radius: 8px; 
+	color:#000;
+}
+.card-bg {
+	position: absolute;
+	background-color: rgb(253, 205, 47);
+	opacity: 0.25;
+	width: 100%;
+	height:100%;
+}
+.card-title {font-size: 1.25em;padding: 0 4px}
+.card-desc {padding: 8px}
+*/
